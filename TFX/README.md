@@ -11,3 +11,8 @@ You may use TFX to prepare your dataset and use other frameworks, such as PyTorc
 # TFX can run in any Jupyter Notebook, such as Colab
 
 Colab (https://colab.research.google.com/) is a free Jupyter Notebook service. So it is convenient to use TFX in Colab.
+
+# Credit
+
+The original Data_Validation.ipynb can be found at https://github.com/tensorflow/tfx/blob/master/docs/tutorials/data_validation/tfdv_basic.ipynb.
+The original Transform.ipynb can be foud at https://github.com/tensorflow/tfx/blob/master/docs/tutorials/transform/census.ipynb.
