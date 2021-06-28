@@ -28,8 +28,8 @@ I will focus on TFX and Kubeflow code.
 
 # TFX vs Kubeflow
 According to the official guidance (https://cloud.google.com/vertex-ai/docs/pipelines/build-pipeline):
-```
-Which pipelines SDK should I use?
+
+## Which pipelines SDK should I use?
 Vertex Pipelines can run pipelines built using the Kubeflow Pipelines SDK v1.6 or higher, or TensorFlow Extended v0.30.0 or higher.
 
 If you use TensorFlow in an ML workflow that processes terabytes of structured data or text data, we recommend that you build your pipeline using TFX.
@@ -40,7 +40,8 @@ To learn more about using Vertex Pipelines to run a TFX pipeline, follow the TFX
 For other use cases, we recommend that you build your pipeline using the Kubeflow Pipelines SDK. By building a pipeline with the Kubeflow Pipelines SDK, you can implement your workflow by building custom components or reusing prebuilt components, such as the Google Cloud pipeline components. Google Cloud pipeline components make it easier to use Vertex AI services like AutoML in your pipeline.
 The real two options: (Kubeflow on GCP Vertex AI) and (TFX on Jupyter Notebook)
 Generally speaking, TFX is a light solution for Tensorflow based solution. (Kubeflow on GCP Vertex AI) is a heavy but flexible solution.
-```
+
+## TFX can run independent of GCP
 Of course, as the official guidance said you may run TFX on GCP Vertex AI. But TFX can run independently.
 
 # Credit
