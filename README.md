@@ -45,4 +45,4 @@ Generally speaking, TFX is a light solution for Tensorflow based solution. (Kube
 Of course, as the official guidance said you may run TFX on GCP Vertex AI. But TFX can run independently.
 
 # Credit
-I will collect and improve good MLOps templates here. I will mention all the original authors.
+I will collect and improve good MLOps templates CONTINOUSLY here. I will mention all the original authors.
