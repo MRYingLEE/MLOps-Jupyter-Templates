@@ -46,3 +46,11 @@ Of course, as the official guidance said you may run TFX on GCP Vertex AI. But T
 
 # Credit
 I will collect and improve good MLOps templates CONTINOUSLY here. I will mention all the original authors.
+
+# A Fluent MLOps template for Time Series Data
+
+It is worth mentioning that I have another related repo, 
+https://github.com/MRYingLEE/DeepTime-Deep-Learning-Framework-for-Time-Series-Forecasting. 
+
+That repo reflects my idea on MLOps with time series data. 
+I expect a fluent and flexible MLOps experience for all primary situations.
