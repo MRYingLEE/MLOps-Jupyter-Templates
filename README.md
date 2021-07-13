@@ -60,7 +60,7 @@ I expect a fluent and flexible MLOps experience for all primary situations.
 There is a good summary on design patterns in machine learning,
 https://github.com/GoogleCloudPlatform/ml-design-patterns .
 
-It is not an official Google product, but from theValliappa Lakshmanan, **Director (Global Head), Data Analytics and AI Solutions, Google Cloud, and his colleague.
+It is not an official Google product, but from theValliappa Lakshmanan, **Director (Global Head), Data Analytics and AI Solutions, Google Cloud**, and his colleague.
 
 It is worth reading carefully. Its introduction can be found as the following: 
 
