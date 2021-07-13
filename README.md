@@ -123,4 +123,4 @@ We will update this repo with source code as we write each chapter. Stay tuned!
 
 ## A good chart on the relationship of design patterns
 
-<img src="mldp_tree_interactions.png" height="1200"> https://www.oreilly.com/library/view/machine-learning-design/9781098115777/ </img> <br/>
+<img src="mldp_tree_interactions.png" height="1200" /> <br/>
