@@ -75,10 +75,6 @@ Source code accompanying O'Reilly book: <br/>
 <a href="https://shop.aer.io/oreilly/p/machine-learning-design/9781098115784-9149">Buy from O'Reilly</a> <br/>
 <a href="https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783">Buy from Amazon</a> <br/>
 
-We will update this repo with source code as we write each chapter. Stay tuned!
-
-[<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook-white.svg">](https://deepnote.com/launch?url=https://github.com/GoogleCloudPlatform/ml-design-patterns)
-
 ## Chapters
 
 * Preface
